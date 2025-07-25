@@ -3,7 +3,7 @@
   "description": "Javascript WhatsApp bot made ʙʏ RAHEEM-CM",
   "logo": "https://files.catbox.moe/a97zm1.jpg",
   "keywords": ["ZANE"],
-  "success_url": "/",
+  "success_url": "https://files.catbox.moe/a97zm1.jpg",
 
     "stack": "container",
   "env": {
