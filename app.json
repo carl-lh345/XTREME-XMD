@@ -1,8 +1,8 @@
 {
-  "name": "RAHEEM-XMD-3",
+  "name": "ZANE PURIFICATEUR",
   "description": "Javascript WhatsApp bot made ʙʏ RAHEEM-CM",
   "logo": "https://files.catbox.moe/a97zm1.jpg",
-  "keywords": ["RAHEEM-XMD-3"],
+  "keywords": ["ZANE"],
   "success_url": "/",
 
     "stack": "container",
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SIGMA-MD~v1YhQDDA#RmA4Hy6mKuGxVul3_yb4Xm_S8ULFneqDNedIgCH8aUI"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "ZANE PURIFICATEUR"
     }, 
       
     "PREFIX": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "privé"
       
     },
     
@@ -42,7 +42,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -61,13 +61,13 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY RAHEEM-XMD-3 🐺*"
+      "value": "false"
    
      }, 
     
-    "OWNER_NAME": {
+    "OWNER_NAME": { DARK ZANE
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "DARK ZANE"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255XXXXXX"
+      "value": "50938223310"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "DARK ZANE"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHEEM-XMD-3*"
+      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ DARK ZANE"
     },
 
       "DELETE_LINKS": {
