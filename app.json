@@ -9,7 +9,7 @@
   "env": {
     "SESSION_ID": {
       "description": "SIGMA-MD~v1YhQDDA#RmA4Hy6mKuGxVul3_yb4Xm_S8ULFneqDNedIgCH8aUI"
-",
+
       "required": true,
       "value": "SIGMA-MD~v1YhQDDA#RmA4Hy6mKuGxVul3_yb4Xm_S8ULFneqDNedIgCH8aUI"
     },  
