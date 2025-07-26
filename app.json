@@ -8,10 +8,10 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "SIGMA-MD~v1YhQDDA#RmA4Hy6mKuGxVul3_yb4Xm_S8ULFneqDNedIgCH8aUI"
+      "description": "SIGMA-MD~WgBFFTDa#BO2ja9kBCQcA3HwTBi1VuioMxNURc1uRytmjpNJw91E"
 
       "required": true,
-      "value": "SIGMA-MD~v1YhQDDA#RmA4Hy6mKuGxVul3_yb4Xm_S8ULFneqDNedIgCH8aUI"
+      "value": "SIGMA-MD~WgBFFTDa#BO2ja9kBCQcA3HwTBi1VuioMxNURc1uRytmjpNJw91E"
     },  
     
     "STICKER_NAME": {
